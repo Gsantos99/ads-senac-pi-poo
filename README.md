@@ -54,7 +54,7 @@ Link de acesso para os protótipos:
 
 - Giulyano Santos - Função - Desenvolvedor 
 - Bernardo Silveira da Silva - Função - Desenvolvedor
-- **[Nome do Integrante 3]** - Função (ex: Analista)
+- Elcio Augusto Dalosto - Função - Desenvolvedor
 - **[Nome do Integrante 4]** - Função (ex: Documentador)
 
 
