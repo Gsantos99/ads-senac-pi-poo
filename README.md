@@ -44,6 +44,19 @@ Nesta fase, desenvolvemos os protótipos funcionais das interfaces do sistema, f
 
 ### [Inserir links ou imagens dos protótipos desenvolvidos]
 
+<img src="https://github.com/user-attachments/assets/8d56e6f7-b744-4b5c-b426-3d1b3a0d6df4" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/8c789ebe-4a62-40fd-8f41-e3a898829923" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/c6eca98c-5ead-4f57-84a0-69d5f43a10cd" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/646c9ddb-a72b-40b8-981e-2b05a318f27d" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/92dc8598-e527-4f02-813c-2a1ae1e651d5" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/d6c62679-d988-45ee-ab7d-299a9cada0f6" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/49e8f9b2-6db2-4d29-807f-1b90b92e3ec7" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/5fcdd7d2-6c04-4020-add7-d3c72bc09225" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/83a34d03-01ed-4e46-ba5d-0517d6033377" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/033e9d87-1958-493f-9684-c4866d518027" alt="alt text" width="200px" height="auto">
+<img src="https://github.com/user-attachments/assets/be07e75b-fd74-4451-a45b-d1710d364b5e" alt="alt text" width="200px" height="auto">
+
+
 Link de acesso para os protótipos: 
 [Protótipos no Figma](https://www.figma.com/file/exemplo-de-url](https://www.figma.com/design/YqHLIrEtGRr5Us2HhrJ9va/Untitled?node-id=0-1&t=LHoi9KdZIAf54uEB-1))
 
