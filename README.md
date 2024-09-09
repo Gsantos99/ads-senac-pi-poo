@@ -53,7 +53,7 @@ Link de acesso para os protótipos:
 ## Autores
 
 - Giulyano Santos - Função - Desenvolvedor 
-- **[Nome do Integrante 2]** - Função (ex: Designer)
+- Bernardo Silveira da Silva - Função - Desenvolvedor
 - **[Nome do Integrante 3]** - Função (ex: Analista)
 - **[Nome do Integrante 4]** - Função (ex: Documentador)
 
