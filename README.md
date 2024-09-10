@@ -69,5 +69,6 @@ Link de acesso para os protótipos:
 - Bernardo Silveira da Silva - Função - Desenvolvedor
 - Elcio Augusto Dalosto - Função - Desenvolvedor
 - Murilo Ruiz Pedro - Função - Desenvolvedor
+- Luciano Bispo dos Santos Jr - Função - Desenvolvedor
 
 
